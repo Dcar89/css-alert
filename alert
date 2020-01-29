@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Alert</title>
+</head>
+<style>
+    
+
+    .a{
+        padding: 10px;
+        background-color: rgba(234, 240, 241, 0.6);
+        width: 600px;
+        font-size: 24px;
+        color:black;
+        border: 2px solid gray;
+        border-radius: 8px;
+        margin: auto;
+        font-family: sans-serif;
+        
+        
+
+    }
+</style>
+
+<body>
+    
+<div class="a">
+    <p>Earum euismod accusamus pellentesque proident.</p>
+
+</div>
+</body>
+</html>
